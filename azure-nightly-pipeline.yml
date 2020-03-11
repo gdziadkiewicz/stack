@@ -42,4 +42,4 @@ jobs:
    name: AlpineLinux64
    vmImage: ubuntu-16.04
    os: alpine-linux
-   containerImage: frolvlad/alpine-glibc:alpine-3.11_glibc-2.30
+   containerImage: jeffhappily/alpine-glibc-bash:alpine-3.11_glibc-2.30
